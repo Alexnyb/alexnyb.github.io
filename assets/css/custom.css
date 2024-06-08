@@ -1,3 +1,8 @@
-body {
+.wrapper {
   background-color: lightblue;
+  width: 35%; /* Adjust the width as needed */
+  float: left; /* Ensure it stays on the left side */
+  min-height: 100vh; /* Ensure it covers the full height of the viewport */
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  padding: 20px; /* Add some padding if needed */
 }
