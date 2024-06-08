@@ -1,3 +1,19 @@
 body {
-  background-color: lightblue;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  min-height: 100vh;
+}
+
+.left-side {
+  background-color: #e0f7fa;
+  width: 33.33%;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.right-side {
+  width: 66.67%;
+  padding: 20px;
+  box-sizing: border-box;
 }
