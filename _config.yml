@@ -1,7 +1,7 @@
 title: Ghilas Bettar # your name (or website title) here
 logo: "/images/picture.JPG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  it's summer time, we always enjoy it.  <br><br>
+  <br><br>
   <a href="https://www.linkedin.com/in/ghilas-bettar-data">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
