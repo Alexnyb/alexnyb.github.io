@@ -1,5 +1,25 @@
 # Welcome to My Portfolio
 
+
+
+<h1 align="center"> P O R T F O L I O </h1>
+
+---
+
+[<img src="images/About Me 2.png?raw=true"/>](/About Me)
+
+---
+
+[<img src="images/Projects Pic 2.png?raw=true"/>](/projects)
+
+---
+
+[<img src="images/Resume 2.png?raw=true"/>](/files/Resume - Megan Smith.pdf){:target="blank"}
+
+---
+
+[<img src="images/Connect 2.png?raw=true"/>](/Connect)
+
 ---
 ## [About me](/After graduating with an Engineer’s (Master’s) degree in Operational Research Engineering, I began my career as math teacher before moving to manufacturers as a Data Analyst. Subsequently, I was hired as a Business Intelligence Engineer for HAS company, in the healthcare sector, where I worked on building and maintaining data warehouses and ETL data pipeline. then moved to SNCF (French National Railway), where he worked as a Data Engineer, for testing ETL data pipeline.
 
