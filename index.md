@@ -21,9 +21,7 @@
 [<img src="images/Connect 2.png?raw=true"/>](/Connect)
 
 ---
-## [About me](/After graduating with an Engineer’s (Master’s) degree in Operational Research Engineering, I began my career as math teacher before moving to manufacturers as a Data Analyst. Subsequently, I was hired as a Business Intelligence Engineer for HAS company, in the healthcare sector, where I worked on building and maintaining data warehouses and ETL data pipeline. then moved to SNCF (French National Railway), where he worked as a Data Engineer, for testing ETL data pipeline.
-
-Through my academic and professional experience, I developed strong mathematics, software and data engineering, including Machine Learning, Python, Snowflake, R, SQL, Alteryx and Tableau. Additionally, I have honed my interpersonal skills through direct collaboration with front office teams./)
+## [About me](//)
 
 
 ### Learn About My Projects
