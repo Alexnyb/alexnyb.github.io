@@ -2,11 +2,11 @@
 
 
 
-<h1 align="center"> P O R T F O L I O </h1>
+<h1 align="center"> WELCOME TO MY P O R T F O L I O </h1>
 
 ---
 
-[<img src="images/About Me 2.png?raw=true"/>](/About Me)
+[<>](/About Me)
 
 ---
 
