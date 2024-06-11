@@ -5,7 +5,7 @@
 
 ---
 <h1 align="center"> A B O U T &nbsp;&nbsp;M E </h1>
-<h1 align="center"> Click &nbsp;&nbsp; here </h1> (/bank)
+[] (/bank)
 ---
 
 
