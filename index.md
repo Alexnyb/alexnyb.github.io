@@ -3,7 +3,9 @@
 ---
 
 ### Learn About My Projects
-
+---
+<h1 align="center"> A B O U T &nbsp;&nbsp;M E </h1>
+---
 #### [About Me](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
