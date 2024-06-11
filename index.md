@@ -1,22 +1,16 @@
-# Welcome to my Portfolio
-
-
-
-
+# Welcome to My Portfolio
 
 ---
-## (/About Me)
-
 
 ### Learn About My Projects
 
-
+#### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Tolulope is the best
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
-### need to be changed <img src= "images/21 Days Challenge.png?raw=true"/>
+<img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
@@ -37,7 +31,7 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Project 1 Title](Not finish yet)
+- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
