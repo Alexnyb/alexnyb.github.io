@@ -2,26 +2,10 @@
 
 
 
-<h1 align="center"> WELCOME TO MY P O R T F O L I O </h1>
-
----
-
-(/About Me)
-
----
-
 
 
 ---
-
-[<img src="images/Resume 2.png?raw=true"/>](/files/Resume - Megan Smith.pdf){:target="blank"}
-
----
-
-[<img src="images/Connect 2.png?raw=true"/>](/Connect)
-
----
-## [About me](//)
+## [About Me](//)
 
 
 ### Learn About My Projects
