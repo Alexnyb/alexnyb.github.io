@@ -4,7 +4,7 @@
 
 #### [A B O U T   &nbsp;&nbsp;   M E ](/bank)
 ---
-<h1 align="center"> L E A R N  &nbsp;&nbsp; A B O U T &nbsp;&nbsp;M Y  &nbsp;&nbsp;  P R O J E C T   </h1> 
+<h1 align="center"> L E A R N  &nbsp;&nbsp; A B O U T &nbsp;&nbsp;M Y  &nbsp;&nbsp;  P R O J E C T S  </h1> 
 
 ---
 
