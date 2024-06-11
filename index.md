@@ -4,8 +4,8 @@
 
 
 ---
-<h1 align="center"> A B O U T &nbsp;&nbsp;M E </h1>
-[] (/bank)
+<h1 align="center"> A B O U T &nbsp;&nbsp;M E </h1>  (/bank)
+
 ---
 
 
