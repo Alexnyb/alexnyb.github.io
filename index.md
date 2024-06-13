@@ -9,10 +9,6 @@
 ---
 
 
-### Learn About My Projects
-
-<img src="images/image?raw=true"/>
-the best
 
 ---
 #### [Linked File Project](/files/Day  days to data.pdf)
